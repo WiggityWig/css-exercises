@@ -1,0 +1,18 @@
+.odd{
+    background-color:rgb(249, 191, 200);
+}
+
+#line2{
+    color: rgb(000,000,200);
+    font-size: 36px;
+}
+
+.extra{
+    font-size: 24px;
+}
+
+#help{
+    background-color: rgb(157, 241, 73);
+    font-weight: bold;
+    font-size: 24px;
+}
